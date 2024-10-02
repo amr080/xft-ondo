@@ -31,6 +31,7 @@ rUSDX, on the other hand, is intended to maintain a price of $1.00 per token, wi
 As an example, let’s say you held 1 USDX token worth $100 and 100 rUSDX tokens worth $1.00 each. The next day the NAV per USDX token increased to $101 per token. After the price update and rebasing, your holdings of both rUSDX and USDX would be worth $101.00 each ($202.00 in total). You would still have a balance of 1 USDX token worth $101.00. However, due to the rebasing nature of rUSDX tokens, you would now hold 101 rUSDX tokens worth $1.00 per token.
 
 Why tokenized money market funds?
+
 Money Market Funds (MMFs) become more stable if investors can use their MMF shares directly as collateral, instead of selling them for cash. This reduces pressure on MMFs during market stress.
 Traditional: Investor sells MMF shares to get cash for margin call, causing fund outflows.
 Tokenized: Investor uses MMF shares/tokens directly as collateral, avoiding sale and fund outflows.
